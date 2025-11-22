@@ -1,0 +1,5 @@
+{
+  "name": "SaveSora - Sora Video Downloader",
+  "description": "A modern, high-speed video downloader web application designed for Sora videos. Features a clean dark UI, real-time link validation, and mobile responsiveness.",
+  "requestFramePermissions": []
+}
